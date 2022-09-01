@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(255, 245, 232);
+    margin: 0%;
+}
+h1{
+    text-align: center;
+}
+.titulo{
+    
+    background-color: black;
+    text-align: center;
+}
+p{
+    
+    
+}
+ul li{
+    
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    padding: 25px;
+    display: inline;
+    list-style: none;
+    color:rgb(250, 209, 155)
+}
+.descrição{
+    font-size: 25px;
+    font-style: italic;
+}
+section{
+    display: inline;
+}
+
+.um{
+    padding: 130px;
+}
+.dois{
+    padding: 300px;
+}
+img{
+    
+    padding:3px;
+    width: 610px;
+    height: 325px;
+    border-radius: 50px;
+}
+.navega{
+    list-style: none;
+    font-size: 25px;
+    padding: 0%;
+    border: 0;
+background-color: black;
+}
+nav ul li a:hover {
+    color: rgb(255, 255, 183);
+}
+
+#info{
+    list-style: none;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(219, 174, 115);
+}
